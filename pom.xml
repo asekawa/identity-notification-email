@@ -187,4 +187,4 @@
     <artifactId>jacoco-maven-plugin</artifactId>
     <version>${jacoco.version}</version>
 </dependency>
-</dependencies><properties><jacoco.version>0.8.6</jacoco.version></properties></project>
+</dependencies></project>
